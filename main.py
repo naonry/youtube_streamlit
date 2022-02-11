@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.title('Streamlit 超入門練習')
+st.title('Streamlit 練習更新')
 
 st.write('プログレスバーの表示')
 'Start!!'
