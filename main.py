@@ -5,7 +5,7 @@ import pandas as pd
 import yfinance as yf
 import altair as alt
 
-st.title('可視化アプリ練習1')
+st.title('可視化アプリ練習20220314')
 
 st.sidebar.write("""
 # GAFA株価
